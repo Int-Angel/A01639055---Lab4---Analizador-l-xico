@@ -12,6 +12,7 @@ python3 code_generator.py > example.ac
 
 ### Input:
 //4GORBR1AI5
+
 f q
 i t
 q = 39
