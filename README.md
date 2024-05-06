@@ -14,15 +14,24 @@ python3 code_generator.py > example.ac
 //4GORBR1AI5
 
 f q
+
 i t
+
 q = 39
+
 u = o / 84
+
 p d
 
 ### Output:
 COMMENT
+
 floatdcl id
+
 intdcl id
+
 id assign inum
+
 id assign id div inum
+
 print id
